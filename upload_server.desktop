@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Upload Server
+Comment=Upload Server Application
+Exec=/home/jssd/dist/upload_server
+Icon=/home/jssd/dist/upload_server.svg
+Terminal=true
+Type=Application
+
